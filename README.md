@@ -13,4 +13,4 @@ The script can be started with the `start` npm command. Example: `npm run start 
 
 ### Contributing
 
-If you find a bug of have new ideas, open a PR.
+If you find a bug or have new ideas, open a PR.
